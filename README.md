@@ -1,5 +1,5 @@
 <p  aling="center">
-<img src=".github/preview.png" alt="Demostracao do projeto" width="100%"/>
+<img src=".github/Galaxias.png" alt="Demostracao do projeto" width="100%"/>
 </p>
 
 ## 🖥️Projeto
