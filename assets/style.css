@@ -82,3 +82,26 @@ a{
         font-size: 10px;
     }
 }
+
+@media (max-width: 667px){
+    :root{
+        font-size: 8px;
+    }
+}
+
+h1{
+    font-size: 30px;
+}
+
+.description{
+    font-size: 15px;
+}
+
+img{
+    width: auto;
+}
+
+.list{
+    padding-left: 30px;
+    padding-right: 20px;
+}
