@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido durante o curso da OneBitCode com as seguintes tec
 - Git e Github
 
 ## 🏷️ Layout
-Eu mesmo inventei!# Galaxies
+Eu mesmo inventei!
