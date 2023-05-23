@@ -13,8 +13,9 @@ body{
     gap: 16px;
     align-items: center;
     background-image: url(./background.jpg);
-    background-size:cover;
+    background-size:100%;
     background-repeat: no-repeat;
+    background-size: cover;
     color: #e8e7e6;
     height: 100vh;
     text-shadow: 0.1em 0.1em 0.2em black;
@@ -58,6 +59,12 @@ a{
     :root {
         font-size: 12px;
     }
+    body{
+        background-image: url(background.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100% 100% 100% 100%;
+    }
     h1{
         text-align: center;
     }
@@ -69,7 +76,7 @@ a{
         text-align: center;
     }
     img{
-        width: 90%;
+        width: auto;
     }
     .link{
         font-size: 10px;
