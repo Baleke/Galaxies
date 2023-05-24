@@ -4,11 +4,10 @@
     box-sizing: border-box;
 }
 
-
 body{
     font-family: "Roboto", sans-serif;
-    font-size: 20px;
     display: flex;
+    font-size: 20px;
     flex-direction: column;
     gap: 16px;
     align-items: center;
